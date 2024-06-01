@@ -1,5 +1,5 @@
 {
-	"feature": "checkerboard_dimension:white_tile",
+	"feature": "checkerboard_dimension:second_tile",
 	"placement": [
 		{
 			"type": "minecraft:random_offset",

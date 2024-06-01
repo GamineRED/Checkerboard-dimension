@@ -13,7 +13,8 @@
 	"carvers": {},
 	"features": [
 		[
-			"checkerboard_dimension:white_tile"
-		]
+			"checkerboard_dimension:second_tile"
+		],
+		"#commonize_checkerboard_grid:second_grid_lines"
 	]
 }
