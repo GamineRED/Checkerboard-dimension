@@ -1,9 +1,9 @@
 {
 	"pack": {
-		"pack_format": 18,
+		"pack_format": 57,
 		"supported_formats": {
-			"min_inclusive": 16,
-			"max_inclusive": 48
+			"min_inclusive": 49,
+			"max_inclusive": 80
 		},
 		"description": "A simple, black and white checkerboard dimension"
 	}
