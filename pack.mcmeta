@@ -5,6 +5,6 @@
 			"min_inclusive": 16,
 			"max_inclusive": 48
 		},
-		"description": "A simple, black and white checkerboard dimension"
+		"description": "A simple, gray and white checkerboard dimension"
 	}
 }
