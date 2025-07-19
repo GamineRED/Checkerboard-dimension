@@ -1,25 +1,25 @@
 {
-	"surface_builder": "minecraft:nope",
-	"depth": 0,
-	"scale": 0,
-	"temperature": 0.5,
-	"downfall": 0.5,
-	"precipitation": "none",
-	"category": "none",
-	"player_spawn_friendly": true,
-	"effects": {
-		"sky_color": 8103167,
-		"fog_color": 12638463,
-		"water_color": 4159204,
-		"water_fog_color": 329011
-	},
-	"starts": [],
-	"spawners": {},
-	"spawn_costs": {},
-	"carvers": {},
-	"features": [
-		[
-			"checkerboard_dimension:white_tile"
-		]
-	]
+  "surface_builder": "minecraft:nope",
+  "depth": 0,
+  "scale": 0,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "precipitation": "none",
+  "category": "none",
+  "player_spawn_friendly": true,
+  "effects": {
+    "sky_color": 8103167,
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "starts": [],
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "checkerboard_dimension:white_tile"
+    ]
+  ]
 }
