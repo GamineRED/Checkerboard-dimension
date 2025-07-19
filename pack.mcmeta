@@ -1,6 +1,6 @@
 {
-	"pack": {
-		"pack_format": 9,
-		"description": "A simple, gray and white checkerboard dimension"
-	}
+    "pack": {
+        "description": "A simple, gray and white checkerboard dimension",
+        "pack_format": 9
+    }
 }
