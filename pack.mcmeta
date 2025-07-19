@@ -1,10 +1,10 @@
 {
-	"pack": {
-		"pack_format": 57,
-		"supported_formats": {
-			"min_inclusive": 49,
-			"max_inclusive": 81
-		},
-		"description": "A simple, gray and white checkerboard dimension"
-	}
+    "pack": {
+        "pack_format": 57,
+        "supported_formats": {
+            "min_inclusive": 49,
+            "max_inclusive": 81
+        },
+        "description": "A simple, gray and white checkerboard dimension"
+    }
 }
