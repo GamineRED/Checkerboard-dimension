@@ -1,9 +1,11 @@
 name: demo
 on:
     push:
-        branches: datapack-format/*
+        branches:
+          - 'datapack-format/*'
     pull_request:
-        branches: datapack-format/*
+        branches:
+          - 'datapack-format/*'
 
 jobs:
     demo:
