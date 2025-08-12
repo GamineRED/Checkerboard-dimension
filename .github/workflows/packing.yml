@@ -1,4 +1,4 @@
-name: demo
+name: Packing
 on:
     push:
         branches: datapack-format/*
