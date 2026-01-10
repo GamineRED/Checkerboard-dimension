@@ -14,3 +14,7 @@ jobs:
               uses: ComunidadAylas/PackSquash-action@v4
               with:
                 packsquash_version: latest
+                options: |
+                  pack_directory = "."
+                  [LICENSE]
+                  force_include = true
