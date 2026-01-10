@@ -9,7 +9,8 @@ jobs:
   dummy:
     runs-on: ubuntu-24.04
     steps:
-      - name: Dummy
+      - name: Dummy # Always fail
         run: |
           'echo This workflow is Dummy.'
           'echo DO Dispatching datapack branches!'
+          'exit 1'
