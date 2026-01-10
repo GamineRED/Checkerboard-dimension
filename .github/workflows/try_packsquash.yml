@@ -12,5 +12,5 @@ jobs:
       - name: Dummy # Always fail
         run: |
           'echo This workflow is Dummy.'
-          'echo DO Dispatching datapack branches!'
+          'echo Retry Dispatching from datapack branches!'
           'exit 1'
