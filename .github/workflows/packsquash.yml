@@ -1,0 +1,22 @@
+name: PackSquash
+
+on: workflow_dispatch
+
+jobs:
+    packsquash:
+        runs-on: ubuntu-24.04
+        steps:
+            - name: Clone repo
+              uses: actions/checkout@v6.0.2
+              with:
+                fetch-depth: 0
+
+            - name: PackSquash
+              uses: ComunidadAylas/PackSquash-action@v4.0.4
+              with:
+                packsquash_version: latest
+                options: |
+                  pack_directory = "."
+
+                  [LICENSE]
+                  force_include = true
