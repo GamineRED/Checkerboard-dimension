@@ -1,0 +1,17 @@
+name: Trying PackSquash
+
+on: workflow_dispatch
+
+jobs:
+    packsquash:
+        runs-on: ubuntu
+        steps:
+            - name: Clone repo
+              uses: actions/checkout@v6
+              with:
+                fetch-depth: 0
+                ref: ${{ github.ref }}
+            - name: PackSquash
+              uses: ComunidadAylas/PackSquash-action@v4
+              with:
+                packsquash_version: latest
