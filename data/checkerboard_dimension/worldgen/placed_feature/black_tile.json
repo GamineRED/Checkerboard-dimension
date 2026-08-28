@@ -2,17 +2,19 @@
   "feature": "checkerboard_dimension:black_tile",
   "placement": [
     {
-      "type": "minecraft:random_offset",
-      "xz_spread": 8,
-      "y_spread": 0
+      "type": "minecraft:offset",
+      "x": 8,
+      "y": 0,
+      "z": 8
     },
     {
       "type": "minecraft:biome"
     },
     {
-      "type": "minecraft:random_offset",
-      "xz_spread": -8,
-      "y_spread": 0
+      "type": "minecraft:offset",
+      "x": -8,
+      "y": 0,
+      "z": -8
     }
   ]
 }

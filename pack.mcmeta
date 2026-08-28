@@ -1,7 +1,7 @@
 {
     "pack": {
         "min_format": 108,
-        "max_format": 108,
+        "max_format": 118,
         "description": "A simple, gray and white checkerboard dimension"
     }
 }

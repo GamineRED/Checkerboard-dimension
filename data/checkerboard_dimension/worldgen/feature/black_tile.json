@@ -1,7 +1,5 @@
 {
   "type": "minecraft:fill_layer",
-  "state": {
-    "Name": "minecraft:gray_concrete"
-  },
+  "state": "minecraft:gray_concrete",
   "height": 64
 }
