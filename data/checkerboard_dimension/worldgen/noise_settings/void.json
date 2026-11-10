@@ -6,7 +6,7 @@
   "default_fluid": "minecraft:air",
   "noise": {
     "min_y": 0,
-    "height": 0
+    "height": 16
   },
   "noise_router": {
     "temperature": 0,
