@@ -10,7 +10,7 @@
     "Name": "minecraft:air"
   },
   "noise": {
-    "height": 0,
+    "height": 16,
     "density_factor": 0,
     "density_offset": 0,
     "size_horizontal": 1,
